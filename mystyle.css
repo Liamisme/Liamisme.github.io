@@ -1,0 +1,53 @@
+    body {
+	background: rgba(92, 169, 255, 1);
+}
+
+    #hobbies {
+	text-align: left;
+}
+
+    p {
+	text align: left;
+}
+
+    header {
+      text-align: center;
+      background-size: cover;
+      color: white;
+    }
+    a {
+      color: white;
+    }
+    h1 {
+      font-size: 70px;
+	  background-color: rgba(92,169,255,1);
+    text-align: center;
+    }
+    img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+    }
+    ul {
+      padding: 10px;
+      background: rgba(64,64,64,0.5);
+      text-align: center;
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    article {
+      max-width: 500px;
+      padding: 20px;
+      margin: 0 auto;
+    }
+    @media (max-width: 500px) {
+    h1 {
+        font-size: 36px;
+        padding: 5px;
+      }
+    li {
+        padding: 5px;
+        display: block;
+      }

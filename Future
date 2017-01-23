@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Liam's future</title>
+		<link rel="stylesheet" type="text/css" href="mystyle.css">
+	</head>
+	
+	<body>
+	
+		<header>
+		<img src="">
+		<h1>My Awesome Website</h1>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="atm.html">ATM</a></li>
+				<li><a href="Future">My Future</a></li>
+				<li><a href="Travel">Travel</a></li>
+			</ul>
+	</header>
+	
+	<h1>Liam's Future</h1>
+	
+	<h2>High School</h2>
+	<p>
+		I am planing to go to Milikan High School.
+	<p>
+		
+	<h2>College</h2>
+		<p>
+			I don't know what college I want to go to right now.
+		</p>
+		
+		<h2>Career Interests</h2>
+			<p>
+				when I grow up I would like to become a pilot.
+			</p>
+		
+		<h2>Goals</h2>
+		<p>
+			My goals are to go to college and become a pilot.
+		</p>
+		
+		
+		
+	</body>

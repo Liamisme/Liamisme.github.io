@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Travel</title>
+		<link rel="stylesheet" type="text/css" href="mystyle.css">
+	</head>
+	
+	<body>
+	
+	<header>
+		<img src="">
+		<h1>My Awesome Website</h1>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="atm.html">ATM</a></li>
+				<li><a href="Future">My Future</a></li>
+				<li><a href="Travel">Travel</a></li>
+			</ul>
+	</header>
+	
+	<h1>Travel</h1>
+	
+	<h2>countries I have been to</h2>
+		<ul>
+			<li>USA</li>
+			<li>Mexico</li>
+			<li>France</li>
+			<li>Switzerland</li>
+			<li>Germany</li>
+			<li>Austria</li>
+		</ul>
+	
+	<h2>States I have been to</h2>
+		<ul>
+			<li>California</li>
+			<li>Nevada</li>
+			<li>Utah</li>
+			<li>Arizona</li>
+		</ul>
+		
+	<h2>Places I want to go to but have not been to</h2>
+		<p> 
+			Some places I really want to go to are, Hawii, 	New York, Washington DC, London, and Australia
+		</p>
+		
+		
+		
+		
+	</body>
