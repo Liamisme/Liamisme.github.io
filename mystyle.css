@@ -29,13 +29,13 @@
       border-radius: 20px;
 }
     ul {
-      padding: 70px;
+      padding: 10px;
       background: rgba(64,64,64,0.5);
       text-align: center;
     }
     li {
       display: inline;
-      padding: 0px, 10px, 0px, 10px;
+      padding: 0px 10px 0px 10px;
 }
     article {
       max-width: 500px;
