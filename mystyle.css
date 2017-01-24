@@ -1,5 +1,4 @@
     body {
-	background: rgba(92, 169, 255, 1);
 }
 
     #hobbies {
@@ -19,6 +18,9 @@
     a {
       color: white;
 }
+    body{
+		background: rgba(92, 169, 255, 1);
+}
     h1 {
       font-size: 70px;
 	  background-color: rgba(92,169,255,1);
@@ -26,7 +28,7 @@
 }
     img {
       margin: 40px, 0px, 0px, 0px;
-      border: 70px white;
+      border: 7px white;
       border-radius: 20px;
 }
     ul {
