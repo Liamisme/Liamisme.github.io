@@ -21,7 +21,7 @@
 }
     h1 {
       font-size: 70px;
-	  background-color: rgba(92,169,255,1);
+	  background-color: rgba(92,169,255,.75);
     text-align: center;
 }
     img {
